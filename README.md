@@ -1,9 +1,37 @@
+# JetPac Java Arcade Game
+
+## What is JetPac?
+
+JetPac is an arcade game app designed with menu selection options and multiple levels for users to fight aliens on platforms all while collecting rocket ship pieces to advance to the next level. Each level will increase in difficulty and reads text files to configure platform setup.
+
+
+## Running JetPac (EclipseIDE)
+
+This project was built using Java (jre1.8.0_281). To run this app with EclipseIDE, first install the corresponding java version: jre1.8.0_281
+
+
+> To run this app locally, open EclipseIDE and navigate to ViewerMain and hit the green play button indicating 
+```bash
+Run ViewerMain
+```
+Simple as that, the game will start and you will be able to navigate and play the game.
+
+## Game Controls
+
+Arrow keys to move, space to shoot bullets that will eliminate aliens, and "F" key to drop rocket objects that can be picked up by hovering over them.
+
+
+### Resources
+Java: jre1.8.0_281
+EclipseIDE: 2020-06 (4.16.0) 20200615-1200
+
+# Project Tips for using Git with EclipseIDE:
+
 # Using Git for Your Arcade Game Project
 
 For the arcade game project, you will be doing group development.
 Therefore, we'll be asking you to use a source control system called
-git.  You've already used git to checkout code/homework from the
-CSSE220 repo, but for this project you will be managing a repo.
+git.
 
 # A video walk through of this process can be found here:
 
