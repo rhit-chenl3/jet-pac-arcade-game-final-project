@@ -1,0 +1,5 @@
+milestone0 progress:
+Read text files to generate platform of game
+	-text file code: o = platform, x = no platform w/ 5 total rows 5 columns, bottom row should always be ground
+
+

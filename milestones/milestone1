@@ -1,0 +1,14 @@
+milestone1 progress:
+
+1.	The initial game level (Level 1) must load from a file and be displayed by the app DONE
+
+2.	Left and right movement by the hero controlled by the user using the left and right arrow keys DONE
+
+3.	Up (flying) movement by the hero controlled by the user using the up-arrow key DONE
+o	No automatic movement by your software required for this milestone, this includes falling
+o	No diagonal movement by hero is required for this milestone, this movement combines left/right movement simultaneously with up movement 
+
+4.	Two different levels (Level 1 and Level 2) can be loaded from their respective files DONE
+
+5.	Switching between levels by pressing the "U" (up) and "D" (down) keys on the keyboard DONE
+
